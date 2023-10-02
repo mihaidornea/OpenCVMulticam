@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">OpenCVApp</string>
+
+    <string name="camera_permission_rationale" translatable="false">In order to be able to use the app, it requires access to the camera. Please provide this permission for the app.</string>
+    <string name="camera_permission_rationale_action" translatable="false">Go to settings</string>
+    <string name="camera_disconnected">Camera %s has been disconnected!</string>
+    <string name="camera_configuration_failed">Camera %s has been disconnected!</string>
+    <string name="surface_null_error">Surface is null!</string>
+    <string name="camera_image_reader_not_init">ImageReader not initialised!</string>
+</resources>
