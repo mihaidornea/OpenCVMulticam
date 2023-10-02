@@ -1,6 +1,6 @@
 # OpenCVMulticam
 
-### Android application that renders the feeds from two cameras (one internal via Camera2 API, one external via UVCCamera) and processes them using OpenCV C++ and renders a cube on top of them using OpenGL ES C++
+***Android application that renders the feeds from two cameras (one internal via Camera2 API, one external via UVCCamera) and processes them using OpenCV C++ and renders a cube on top of them using OpenGL ES C++***
 
 ## Project Structure
 
